@@ -1,6 +1,11 @@
-# Tic Tac Toe Multiplayer - Termianl or Shell based Multiplayer Game
+# Tic Tac Toe Multiplayer - Terminal based Multiplayer Game
 
 Welcome to the Tic Tac Toe multiplayer game implemented in Python! This game allows two players to play the classic Tic Tac Toe game using the terminal. It's a fun and engaging way to challenge your friends and test your strategic skills.
+
+## Gameplay Video
+
+[Watch the Gameplay Video](https://youtu.be/vtFu-hCKIs8?si=rU0mlWHTKssmv9oG)
+
 
 ## Table of Contents
 - [Installation](#installation)
@@ -96,6 +101,6 @@ Contributions are welcome! If you have ideas for improvements or want to fix a b
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 Enjoy playing Tic Tac Toe with your friends, and have fun coding! If you have any questions or encounter issues, feel free to reach out to the project's maintainers.
